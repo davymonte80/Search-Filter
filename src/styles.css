@@ -1,0 +1,16 @@
+.app {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: greenyellow;
+  }
+  .color {
+    background-attachment: fixed;
+    background: color(srgb-linear red rgb(0, 92, 128) blue);
+    image-rendering: optimizeQuality;
+  }
